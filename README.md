@@ -1,5 +1,5 @@
 # interesting-websites
-A collection of odd websites and old websites that are fun to browse through. Feel free to open a issue to remove or add any sites!
+A collection of websites I find interesting. Some websites are old (and haven't been updated in years), some are odd, some are funny, and some are just really cool.
 
 ### Old
 [http://toastytech.com/evil/](http://toastytech.com/evil/)<br>
